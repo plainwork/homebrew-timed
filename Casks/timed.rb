@@ -1,6 +1,6 @@
 cask "timed" do
-  version "0.0.4"
-  sha256 "8383cedfbdcb38c62fe43b57dff83a026a370cc996679da5c3cc4a8b46919795"
+  version "0.0.5"
+  sha256 "b2c0c6136f0b079a970b2aa6c37bc9878b8d82afaf3737ed5d1eb7b3db7a5761"
 
   url "https://github.com/plainwork/timed/releases/download/v#{version}/Timed-#{version}.zip"
   name "Timed"
